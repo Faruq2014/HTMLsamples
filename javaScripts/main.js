@@ -5,8 +5,8 @@
 // could be the string = no limitation.
 // string could be mix and match.
 
-let name="Faruq 2020 @4!"
-console.log(name);
+let name1="Faruq 2020 @4!"
+console.log(name1);
 // number 
 // if your value is number, than js will automateclly decated that it is a number type data.
 // you do not declare the scope of the data type. 
